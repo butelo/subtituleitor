@@ -6,7 +6,7 @@ Automatic subtitler made in python PySide.
 
 I pretend to make a tool that takes care of this steps:
 
-1. Drag the video inside
+1. Drag the video inside the gui (drag'n drop)
 2. Get the name of the video and search subtitles online
 3. Let the user choose from all the options wich one suits better
 3. Download the subtitle
