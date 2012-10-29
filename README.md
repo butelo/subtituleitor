@@ -17,4 +17,4 @@ I pretend to make a tool that takes care of this steps:
 
 It will be made in python/PySide and will be multiplatform (linux, osx, windows)
 
-This tool is for my own use but if it works right could be public released. Anyway you can allways download the code from here and use it for anything you want.
+This tool is for my own use but if it works right could be public released. Anyway you can always download the code from here and use it for anything you want.
